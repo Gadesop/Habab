@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "sleekclient",
+    "name": "SleekClient",
+    "description": "A sleek, minimal utility mod for private server testing.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["SleekClient"],
+    "dependencies": []
+  }
+]nshots": [],
+  "dependencies": []
+}
+]
